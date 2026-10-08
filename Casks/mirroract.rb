@@ -2,8 +2,7 @@ cask "mirroract" do
   version "0.2.1"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
-  url "https://github.com/sopitz/MirrorAct/releases/download/v#{version}/MirrorAct-#{version}.zip",
-      verified: "github.com/sopitz/MirrorAct/"
+  url "https://github.com/sopitz/MirrorAct/releases/download/v#{version}/MirrorAct-#{version}.zip"
   name "MirrorAct"
   desc "Mirror, frame and record an iPhone, iPad or Android phone"
   homepage "https://mirroract.com/"
