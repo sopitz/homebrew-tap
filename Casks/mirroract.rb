@@ -1,6 +1,6 @@
 cask "mirroract" do
-  version "0.2.2"
-  sha256 "8ad6af12b194088ee86a9bcaa9f2ec45c6d65add0c4ec2da11095d612806293e"
+  version "0.2.3"
+  sha256 "6e736439d6ba1507facefa53e75dd96f89224d3535a89010b7fbb8694357692f"
 
   url "https://github.com/sopitz/MirrorAct/releases/download/v#{version}/MirrorAct-#{version}.zip"
   name "MirrorAct"
